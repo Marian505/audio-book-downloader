@@ -5,7 +5,7 @@ prerequisite:
 python, pip, uv
 
 install uv:
-pipx install uv
+pip install uv
 
 load dependecies:
 uv sync
